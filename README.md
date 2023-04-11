@@ -6,3 +6,4 @@ webfjvh fdvf
 fcsefrde 
 - 1) fvdfybv
 - 2) cndui
+- 3) git init
