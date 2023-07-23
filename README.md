@@ -1,9 +1,4 @@
-# Web3-Developer-Roadmap
- "Web3-Developer-Roadmap" is a repository providing a comprehensive guide to becoming a Web3 developer, covering essential skills and technologies for building decentralized applications (dApps) and blockchain-based solutions. 
- Topics include blockchain fundamentals, Ethereum, IPFS, Web3.js, blockchain security, NFTs, and DeFi.
-## will update it ...
-webfjvh fdvf
-fcsefrde 
-- 1) fvdfybv
-- 2) cndui
-- 3) git init
+# Smart Contract Kit
+ "Smart Contract Kit" is a repository providing a comprehensive guide to Mastere Smart Contract, covering essential skills and technologies for building decentralized applications (dApps) and blockchain-based solutions. 
+ Topics included on two blockchain Ethereum and Solana  
+ 
