@@ -1,6 +1,6 @@
- #Get Started
+# Get Started
 
- ##Introduction
+ ## Introduction
  
 No matter if you are a beginner programmer or if you’ve been coding for years, this guide will provide resources for all levels of expertise. If there is something that you already know feel free to skip the material or use it as an opportunity to review what you already know and potentially fill in some gaps in your understanding.
 
